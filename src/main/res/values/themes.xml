@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppTheme.Base" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="android:colorPrimary">@color/colorPrimaryDark</item>
+        <item name="android:colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorPrimaryDark</item>
+        <item name="fist_rotate_duration">800</item>
+        <item name="second_rotate_duration">800</item>
+        <item name="fist_out_duration">400</item>
+        <item name="second_in_duration">400</item>
+    </style>
+    <style name="AppTheme" parent="AppTheme.Base">
+        <!-- 闪屏 -->
+        <item name="android:windowBackground">@color/colorPrimary</item>
+    </style>
+</resources>

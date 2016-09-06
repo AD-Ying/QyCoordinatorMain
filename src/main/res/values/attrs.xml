@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="viewPager">
+        <attr name="isScroll" format="boolean"/>
+    </declare-styleable>
+
+    <declare-styleable name="list_rotate_anim">
+        <attr name="fist_rotate_duration" format="integer"/>
+        <attr name="fist_out_duration" format="integer"/>
+
+        <attr name="second_rotate_duration" format="integer"/>
+        <attr name="second_in_duration" format="integer"/>
+
+        <attr name="layout_fist" format="reference"/>
+        <attr name="layout_second" format="reference"/>
+    </declare-styleable>
+</resources>

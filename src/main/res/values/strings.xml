@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Test</string>
+    <string name="titles">推荐,热点,财经,体育,视屏</string>
+</resources>

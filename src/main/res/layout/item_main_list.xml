@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.qy.widget.ItemView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/item_list"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    app:layout_fist="@layout/item_main_list_first"
+    app:layout_second="@layout/item_main_list_second" />
+
